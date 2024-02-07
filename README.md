@@ -4,6 +4,8 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/BloodhoundSpace/tiktok-follower-crawler?style=social)](https://github.com/BloodhoundSpace/tiktok-follower-crawler/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/BloodhoundSpace/tiktok-follower-crawler?style=social)](https://github.com/BloodhoundSpace/tiktok-follower-crawler/network/)
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com)](https://twitter.com)
+[![Vistors](https://visitor-badge.laobi.icu/badge?page_id=BloodhoundSpace.tiktok-follower-crawler&title=Visitors)](https://github.com/BloodhoundSpace/tiktok-follower-crawler)
+[![License](https://img.shields.io/github/license/BloodhoundSpace/tiktok-follower-crawler?label=License)](https://mit-license.org/)
 
 Get the maximum number of followers of a user on TikTok and save it to an Excel file ♪
 
