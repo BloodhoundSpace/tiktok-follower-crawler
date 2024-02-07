@@ -1,4 +1,6 @@
-![tiktok-api-banner](/public/tiktok-api.webp)
+<p align="center">
+  <img src="https://github.com/BloodhoundSpace/tiktok-follower-crawler/blob/main/public/tiktok.webp" width="160">
+</p>
 
 # Tiktok Follower Crawler
 [![GitHub Repo stars](https://img.shields.io/github/stars/BloodhoundSpace/tiktok-follower-crawler?style=social)](https://github.com/BloodhoundSpace/tiktok-follower-crawler/stargazers/)
