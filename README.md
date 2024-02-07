@@ -1,4 +1,10 @@
+![tiktok-api-banner](/public/tiktok-api.webp)
+
 # Tiktok Follower Crawler
+[![GitHub Repo stars](https://img.shields.io/github/stars/BloodhoundSpace/tiktok-follower-crawler?style=social)](https://github.com/BloodhoundSpace/tiktok-follower-crawler/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/BloodhoundSpace/tiktok-follower-crawler?style=social)](https://github.com/BloodhoundSpace/tiktok-follower-crawler/network/)
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com)](https://twitter.com)
+
 Get the maximum number of followers of a user on TikTok and save it to an Excel file ♪
 
 ![example](./public/example.png)
@@ -70,7 +76,7 @@ Here is data from the TikTok API. You can update the fields you want to retrieve
 
 ## How to retrieve Tiktok SecUID
 
-You can obtain the `SecUID` by using my API (Get User Info) at https://rapidapi.com/Lundehund/api/tiktok-api23 (don't worry, you can use it for free 😼). 
+You can obtain the `SecUID` by using my API (Get User Info) at [link](https://rapidapi.com/Lundehund/api/tiktok-api23) (don't worry, you can use it for free 😼). 
 
 Additionally, you can utilize more than 20 other TikTok APIs available there.
 
